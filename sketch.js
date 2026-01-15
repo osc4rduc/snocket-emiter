@@ -1,5 +1,5 @@
 let socket;
-let canal = "canal-mouse-horizotal"; // Elige el nombre que quieras
+let canal = "canal-15"; // Elige el nombre que quieras
 
 function setup() {
   createCanvas(400, 400);
